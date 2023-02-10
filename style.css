@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+.div_img{
+height: 200px;
+width: 200px;
+}
+.div_speed{
+    float:left;
+}
+.div_img1{
+    height: 200px;
+    width: 200px;
+    }
+      .div_volume{
+        float:right;
+    }
+#speed, #volume{
+    font-size: 18px;
+}
+.note{
+    color:black;
+    font-weight: bold;
+}
+.heading{
+width: 100%;
+margin:0px;
+}
+.play_btn{
+    border: 2px white;
+    height:40px;
+    width:55px;
+    font-size:20px;
+    border-radius: 10px;
+}
+canvas{
+    border:2px white;
+    border-radius: 10px;
+}
